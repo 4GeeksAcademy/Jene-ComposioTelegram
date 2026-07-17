@@ -1,6 +1,6 @@
 # Jene-ComposioTelegram
 
-## OpenClaw - Composio( Spreadsheets and Calendar)
+## OpenClaw - Composio
 - OpenClaw-DocsChat : Screenshot of interaction with OpenClaw to create a spreadsheet 
 - Composio-OpenClaw-Docs1 : Screenshot1 of Spreadsheet created 
 - Composio-OpenClaw-Docs2 : Screenshot2 of Spreadsheet created 
